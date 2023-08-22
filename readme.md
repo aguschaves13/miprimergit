@@ -19,3 +19,8 @@ git push -u origin main
 git add .
 git commit -m"mensaje"
 git push
+
+<!-- <para descargar el proyecto --> -->
+
+abrimos la consola donde querramos descargar el proyecto
+git clone y compiamos el link del repo de github
